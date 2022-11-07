@@ -1,0 +1,80 @@
+header{
+    text-align:center;
+    font-size: 100px;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
+
+button_group{
+  background-color: green;
+}
+
+
+p{
+    color:blue;
+    font: bold;
+}
+
+.container{
+    margin:0;
+    padding:0;
+}
+
+#responseDiv{
+    margin-top:50px;
+}
+
+.input{
+    font-size:25px;
+    color:#004d00;
+    font-weight:700;
+    font-family:cursive;
+    margin:10px;
+}
+
+#entry{
+    width:150px;
+    height:40px;
+    font-size:23px;
+    font-family:"Comic Sans MS, Cursive,sans-serif";
+    background-color: #001a66;
+    color:whitesmoke;
+    margin: 30px;
+}
+
+table{
+    border-collapse: collapse;
+    width:50%;
+    margin:50px auto;
+    background-color:burlywood;
+}
+
+table, th,td {
+    border: 2px solid black;
+    padding:5px;
+}
+
+th{
+    font-size:30px;
+    font-weight:700;
+    font-family:Arial;
+    color:004d00;
+}
+
+td{
+    font-size:25px;
+    color:crimson;
+    font-weight:400;
+    font-family:Georgia;
+}
+
+h5{
+    font-size: 8px;
+    text-align:start;
+    margin:0%;
+    padding: 8%;
+}
